@@ -14,3 +14,7 @@ filetype plugin indent on
 syntax enable
 set background=dark
 colorscheme solarized
+
+filetype plugin on
+
+let mapleader = ","
