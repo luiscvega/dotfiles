@@ -16,3 +16,5 @@ set background=dark
 colorscheme solarized
 
 let mapleader = ","
+
+nmap <F9> :NERDTreeToggle
