@@ -1,4 +1,5 @@
 set number
+set nowrap
 
 set list
 set listchars=eol:¬,tab:<.
