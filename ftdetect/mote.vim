@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.mote set filetype=mote
+au BufNewFile,BufRead *.mote set filetype=html
