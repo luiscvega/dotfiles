@@ -18,4 +18,4 @@ colorscheme solarized
 
 let mapleader = ","
 
-nmap <F9> :NERDTreeToggle
+nmap <F9> :NERDTreeToggle<CR>
