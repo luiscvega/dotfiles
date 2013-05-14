@@ -1,12 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Users/luis/.vim'
 let g:netrw_dirhist_2='/Users/luis/projects/tripkada'
 let g:netrw_dirhist_3='/Users/luis/projects'
 let g:netrw_dirhist_4='/Users/luis/projects/tripkada/config'
 let g:netrw_dirhist_5='/Users/luis/dotfiles/ftdetect'
-let g:netrw_dirhist_6='/Users/luiscvega/.rvm/gems/ruby-1.9.3-p194@tripkada/gems/cutest-1.2.0'
-let g:netrw_dirhist_7='/Users/luiscvega/.rvm/gems/ruby-1.9.3-p194@tripkada/gems/cuba-3.1.0'
-let g:netrw_dirhist_8='/Users/luiscvega/projects/checkout.ph'
 let g:netrw_dirhist_6='/Users/luis/projects/tripkada'
+let g:netrw_dirhist_7='/Users/luiscvega/.rvm/gems/ruby-1.9.3-p194@tripkada/gems/spawn-0.1.4'
