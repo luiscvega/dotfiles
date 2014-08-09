@@ -5,9 +5,9 @@ set ruler
 "set list
 "set listchars=eol:¬,tab:<.
 
-set shiftwidth=2
-set expandtab
-set tabstop=2
+"set shiftwidth=2
+"set expandtab
+"set tabstop=2
 
 autocmd Filetype javascript setlocal ts=4 sts=4 sw=4
 
