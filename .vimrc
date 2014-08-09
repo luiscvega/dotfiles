@@ -22,3 +22,12 @@ colorscheme solarized
 let mapleader = ","
 
 nmap <F9> :NERDTreeToggle<CR>
+
+
+if exists("g:did_load_filetypes")
+  filetype off
+  filetype plugin indent off
+endif
+set runtimepath+=/usr/local/go/misc/vim
+filetype plugin indent on
+syntax on
