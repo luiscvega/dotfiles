@@ -20,4 +20,4 @@ set runtimepath+=/usr/local/go/misc/vim
 filetype plugin indent on
 syntax on
 
-autocmd FileType go autocmd BufWritePre <buffer> Fmt
+"autocmd FileType go autocmd BufWritePre <buffer> Fmt
