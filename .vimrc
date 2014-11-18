@@ -6,17 +6,16 @@ call pathogen#infect()
 syntax on
 filetype plugin indent on
 
-set background=dark
-colorscheme solarized
-
 nmap <F9> :NERDTreeToggle<CR>
 
 " GO STUFF
+let $GOROOT=system("printf `go env GOROOT`")
+
 if exists("g:did_load_filetypes")
   filetype off
   filetype plugin indent off
 endif
-set runtimepath+=/usr/local/go/misc/vim
+set runtimepath+=$GOROOT/misc/vim
 filetype plugin indent on
 syntax on
 
